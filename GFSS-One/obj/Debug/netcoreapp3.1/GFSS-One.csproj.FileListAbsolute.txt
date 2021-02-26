@@ -1,0 +1,13 @@
+C:\Users\E171104\source\repos\GFSS-One\obj\Debug\netcoreapp3.1\GFSS-One.csprojAssemblyReference.cache
+C:\Users\E171104\source\repos\GFSS-One\obj\Debug\netcoreapp3.1\GFSS-One.AssemblyInfoInputs.cache
+C:\Users\E171104\source\repos\GFSS-One\obj\Debug\netcoreapp3.1\GFSS-One.AssemblyInfo.cs
+C:\Users\E171104\source\repos\GFSS-One\obj\Debug\netcoreapp3.1\GFSS-One.csproj.CoreCompileInputs.cache
+C:\Users\E171104\source\repos\GFSS-One\bin\Debug\netcoreapp3.1\GFSS-One.exe
+C:\Users\E171104\source\repos\GFSS-One\bin\Debug\netcoreapp3.1\GFSS-One.deps.json
+C:\Users\E171104\source\repos\GFSS-One\bin\Debug\netcoreapp3.1\GFSS-One.runtimeconfig.json
+C:\Users\E171104\source\repos\GFSS-One\bin\Debug\netcoreapp3.1\GFSS-One.runtimeconfig.dev.json
+C:\Users\E171104\source\repos\GFSS-One\bin\Debug\netcoreapp3.1\GFSS-One.dll
+C:\Users\E171104\source\repos\GFSS-One\bin\Debug\netcoreapp3.1\GFSS-One.pdb
+C:\Users\E171104\source\repos\GFSS-One\obj\Debug\netcoreapp3.1\GFSS-One.dll
+C:\Users\E171104\source\repos\GFSS-One\obj\Debug\netcoreapp3.1\GFSS-One.pdb
+C:\Users\E171104\source\repos\GFSS-One\obj\Debug\netcoreapp3.1\GFSS-One.genruntimeconfig.cache
