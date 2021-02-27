@@ -1,0 +1,12 @@
+<span>
+    <input type="text" [(ngModel)]="textEntry"/>
+    <button type="button" (click)="testBrackets()">Match!</button>
+</span>
+
+<div *ngFor="let tr of testResults.reverse()">
+    <span>
+        <label>{{tr.testString}}</label>
+        <span *ngIf="tr.success" style="color:green;">&#10003;</span>
+        <span *ngIf="!tr.success" style="color: red;">X</span>
+    </span>
+</div>
